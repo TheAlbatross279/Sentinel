@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<trigger keyword="I need a hero!">
+		<constraints
+		camera="true"
+		network="true" 
+		microphone="true" />
+	</trigger>
